@@ -2,9 +2,7 @@
 
 This project aims to provide CAD drawings and material to a faithful reproduction of one of the most iconic computer
 cases from the early 1990s, the [MACASE DIAMOND
-KS-330](https://web.archive.org/web/19980502082047/http://macase.com/product/personal/ks-330.htm).
-
-Ultimately the goal is to provide a set of suitable 3D Printed models to create a general purpose
+KS-330](https://web.archive.org/web/19980502082047/http://macase.com/product/personal/ks-330.htm). Ultimately the goal is to provide a set of suitable 3D Printed models to create a general purpose
 miniature sized KS-330 case for a Raspberry Pi,
 [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) and similar systems which will provide
 compatibility with MS-DOS retro games.
@@ -28,6 +26,5 @@ Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 The following OEM manufacturers have been identified to use the KS-330 or equivalent clones or versions in their
 PC production in the early 1990s:
 
-* TCi Computer AS (Bergen, Norway)
 * Executive (clone?) (Italy?)
-
+* TCi Computer AS (Bergen, Norway)
