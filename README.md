@@ -13,7 +13,7 @@ injection molds might not be accurately reproduced.
 
 Please report any suggestions or issues using the GitHub issue tracker.
 
-<img src='./img/ks-330-front-1.0-dev.png' width="50%" alt="KS-330 Front" />
+<img src='./img/ks-330-front-1.0-dev.png' width="250px" alt="KS-330 Front" />
 
 ## Licensing
 
