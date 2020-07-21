@@ -13,11 +13,13 @@ injection molds might not be accurately reproduced.
 
 Please report any suggestions or issues using the GitHub issue tracker.
 
+<img src='./img/ks-330-front-1.0-dev.png' width="50%" alt="KS-330 Front" />
+
 ## Licensing
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons
 License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"
-/></a><br /><br />3D Models and CAD files are licensed under a <a rel="license"
+/></a><br /><br />3D Models, CAD files and renders are licensed under a <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
