@@ -13,7 +13,16 @@ injection molds might not be accurately reproduced.
 
 Please report any suggestions or issues using the GitHub issue tracker.
 
-<img src='./img/ks-330-front-1.0-dev.png' width="250px" alt="KS-330 Front" />
+## List of manufacturers
+
+The following OEM manufacturers have been identified to use the KS-330 or equivalent clones or versions in their
+PC production in the early 1990s:
+
+* Executive (clone?) (Italy?)
+* TCi Computer AS (Bergen, Norway)
+
+If you know other manufacturers that used the same, variants or clones of this case. Please suggest
+a change to this list.
 
 ## Licensing
 
@@ -23,10 +32,25 @@ License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-## List of manufacturers
+## Components
 
-The following OEM manufacturers have been identified to use the KS-330 or equivalent clones or versions in their
-PC production in the early 1990s:
+### Front Panel
 
-* Executive (clone?) (Italy?)
-* TCi Computer AS (Bergen, Norway)
+`ks-330-front`
+
+<img src='./img/ks-330-front-1.0-dev.png' width="250px" alt="KS-330 Front" />
+
+### IO Panel
+
+The IO panel consts of control buttons and a two or three digit 8 segment display. In addition to
+electronics, this panel consts of three models.
+
+`ks-330-io-panel` is the base structure for buttons and MHz-display. This part is mounted to the
+case. A dark plexi overlay
+
+`ks-330-io-panel-overlay` is a dark plexy overlay and responsible for the unique look and field.
+
+<img src='./img/ks-330-io-panel-overlay-1.0-dev.png' width="250px" alt="KS-330 IO Panel Overlay" />
+
+`ks-330-io-panel-button` arehe used for the reset and turbo buttons.
+
