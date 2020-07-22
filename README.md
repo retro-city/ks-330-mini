@@ -21,9 +21,6 @@ PC production in the early 1990s:
 * Executive (clone?) (Italy?)
 * TCi Computer AS (Bergen, Norway)
 
-If you know other manufacturers that used the same, variants or clones of this case, please submit
-relevant information so we can add it to the list.
-
 ## Licensing
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons
