@@ -13,6 +13,14 @@ injection molds might not be accurately reproduced.
 
 Please report any suggestions or issues using the GitHub issue tracker.
 
+## List of manufacturers
+
+The following OEM manufacturers have been identified to use the KS-330 or equivalent clones or versions in their
+PC production in the early 1990s:
+
+* Executive (clone?) (Italy?)
+* TCi Computer AS (Bergen, Norway)
+
 ## Licensing
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons
@@ -30,7 +38,11 @@ drive bays.
 
 `ks-330-front`
 
-<img src='./img/ks-330-front-1.0-dev.png' width="250px" alt="KS-330 Front" />
+| KS-330-Front | Full Progress
+|---|---|
+| <img src='./img/ks-330-front-1.0-dev.png' width="250px" alt="KS-330 Front" />  | <img src='./img/ks-330-full.png' width="245px" alt="KS-330 Front" />  |
+|
+
 
 ### IO Panel
 
@@ -45,12 +57,3 @@ case. A dark plexi overlay
 <img src='./img/ks-330-io-panel-overlay-1.0-dev.png' width="250px" alt="KS-330 IO Panel Overlay" />
 
 `ks-330-io-panel-button` arehe used for the reset and turbo buttons.
-
-
-## List of manufacturers
-
-The following OEM manufacturers have been identified to use the KS-330 or equivalent clones or versions in their
-PC production in the early 1990s:
-
-* Executive (clone?) (Italy?)
-* TCi Computer AS (Bergen, Norway)
