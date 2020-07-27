@@ -41,8 +41,6 @@ drive bays.
 | KS-330-Front | Full Progress
 |---|---|
 | <img src='./img/ks-330-front-1.0-dev.png' width="250px" alt="KS-330 Front" />  | <img src='./img/ks-330-full.png' width="245px" alt="KS-330 Front" />  |
-|
-
 
 ### IO Panel
 
