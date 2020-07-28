@@ -31,27 +31,79 @@ Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ## Components
 
-### Front Panel
+### Full Size
 
-The main front panel consists of the main panel/bezel, power button and covers for the 3.5" and 5.25"
-drive bays.
+The components in the main STL-directory is full size replicas of the original KS-330 case. There
+are minor modifications done to improve slicer stability when scaled down.
 
-`ks-330-front`
+The following components have been recreated in full size.
 
-| KS-330-Front | Full Progress
-|---|---|
+| KS-330-Front | Full Progress |
+|--------------|---------------|
 | <img src='./img/ks-330-front-1.0-dev.png' width="250px" alt="KS-330 Front" />  | <img src='./img/ks-330-full.png' width="245px" alt="KS-330 Front" />  |
 
-### IO Panel
+| KS-330-IO-Panel-Overlay |
+|-----------------|
+| <img src='./img/ks-330-io-panel-overlay-1.0-dev.png' width="250px" alt="KS-330 IO Panel Overlay"/> |
 
-The IO panel consts of control buttons and a two or three digit 8 segment display. In addition to
-electronics, this panel consts of three models.
 
-`ks-330-io-panel` is the base structure for buttons and MHz-display. This part is mounted to the
-case. A dark plexi overlay
+### Mini
 
-`ks-330-io-panel-overlay` is a dark plexy overlay and responsible for the unique look and field.
+This folder contains models speficially adjusted for a 1:2.5 (40%) size reduction which makes the
+case comparable in size to the commercially released Mini and Classic consoles. Currently there
+exists a case frame with support for Rasbperry Pi SoC motherboards. Other versions are planned in
+the future.
 
-<img src='./img/ks-330-io-panel-overlay-1.0-dev.png' width="250px" alt="KS-330 IO Panel Overlay" />
+The model uses M2.5 screws, only a few holes are actually threaded. Most of them are dependent on
+nuts and bolts.
 
-`ks-330-io-panel-button` arehe used for the reset and turbo buttons.
+**Note!** Models not listed here are not yet converted to a `mini`-version. You may recreate them with decent
+success by scaling down the full size models to 40%. 
+
+
+| KS-330-Mini-Frame |
+|-----------------|
+| <img src='./img/ks-330-mini-frame.png' width="250px" alt="KS-330 Mini Frame"/> |
+
+The inner `frame` of the case. Split into two different STLs to improve 3D printability. Screw holes
+in front is intended to fasten the front panel as well as future drive bay accessory and fan
+assemblies. There are screw holes in the back to fasten the `sleeve` and holes in bottom to fasten
+the `base plate`. The right and the left parts can optionally be glued together.
+
+**Progress:** Completed, but not fully tested.
+
+
+| KS-330-Mini-Sleeve |
+|-----------------|
+| <img src='./img/ks-330-mini-sleeve.png' width="250px" alt="KS-330 Mini Sleeve"/> |
+
+The outer `sleeve` is intended to go on top of the inner `frame` and align with the front panel, just as the
+original case.
+
+**Progress:** Completed, but not fully tested.
+
+| KS-330-IO-Panel |
+|-----------------|
+| <img src='./img/ks-330-io-panel-overlay-1.0-dev.png' width="250px" alt="KS-330 Mini Sleeve"/> |
+
+Customized version of the IO Panel.
+
+LED holes are completly open to account for non-transparent
+material and widened to support 2mmx5mm square LEDs. The original case uses red for HDD, yellow for
+Turbo and green for Power.
+
+The Clock Speed indicator is altered to fit [0.28" 2-digit 7-segment
+displays](https://www.digikey.com/products/en?keywords=DISPLAY%207SEG%200.28%22%20DBL%20). It is important to select a
+version `common anode` or `common cathode` that fits your needs. You also need some logic to drive it as
+most two digits are sharing the 8 control pins pins (two identical numbers can easily be hardwired).
+Controller boards based on the [HT16K33](https://www.adafruit.com/product/1427) currently looks like
+the most promising option.
+
+**Progress:** The following remains: Button fitting and alignment. Creating a suitable BOM-list for
+electronics. General model alignment (including rounded corners and model thickness).
+
+### Clone
+
+The clone directory contains models based on measurements from a clone system. Quality is low
+compared to the original KS-330 cases and models have fitment issues also found persisted in the
+original clone parts.
