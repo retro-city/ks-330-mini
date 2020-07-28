@@ -121,8 +121,9 @@ compared to the original KS-330 cases and models have fitment issues also found 
 original clone parts.
 
 | Clone-Bay-Cover-3.5 | Clone-Bay-Cover-5.25 |
-|:---------------|:---------------:|
+|---------------|---------------|
 | <img src='./img/clone-bay-cover-3.5.png' width="250px" alt="Clone Bay Cover 3.5&quot;"/> | No picture |
+
 **Progress:** Completed, tested in full scale. Fitment is not 100% but possible to adjust with
 precision knife without degrading quality. Works with KS-330 model.
 
