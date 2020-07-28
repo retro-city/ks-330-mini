@@ -124,12 +124,17 @@ original clone parts.
 |---------------|---------------|
 | <img src='./img/clone-bay-cover-3.5.png' width="250px" alt="Clone Bay Cover 3.5&quot;"/> | No picture |
 
-**Progress:** Completed, tested in full scale. Fitment is not 100% but possible to adjust with
-precision knife without degrading quality. Works with KS-330 model.
+Drive Bay Covers for 3.5" and 5.25" bays. Works with `KS-330-Front-Panel`. Fitment of the clone covers are
+not 100%, but it is possible to adjust this with a precision knife without degrading quality. 
+
+**Progress:** Completed, tested in full scale. 
 
 | Clone-Power-Button |
 |-----------------|
 | <img src='./img/clone-power-button.png' width="250px" alt="Clone Power Button"/> |
 
-**Progress:** Completed, tested in full scale. Works with `KS-330-Front-Panel` but is not an
-accurate representation of the original power button.
+Power Button. Works with `KS-330-Front-Panel` but is not an accurate representation of the original
+power button. Requires a low tension compression spring (Outer Ø=8mm, Inner Ø=7mm L=18mm Closed,
+Squared and Ground) to work as intended.
+
+**Progress:** Completed, tested in full scale. 
