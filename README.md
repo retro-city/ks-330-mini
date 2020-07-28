@@ -42,10 +42,22 @@ The following components have been recreated in full size.
 |--------------|---------------|
 | <img src='./img/ks-330-front-1.0-dev.png' width="250px" alt="KS-330 Front" />  | <img src='./img/ks-330-full.png' width="245px" alt="KS-330 Front" />  |
 
+**Progress:** Work in progress, tested in 40% scale. `Front` is pretty accurate, but missing various
+screw hole mounts on  the back side. Edges are not rounded.
+
 | KS-330-IO-Panel-Overlay |
 |-----------------|
-| <img src='./img/ks-330-io-panel-overlay-1.0-dev.png' width="250px" alt="KS-330 IO Panel Overlay"/> |
+| <img src='./img/ks-330-io-panel-overlay-1.0-dev.png' width="250px" alt="KS-330 IO Panel Overlay"/>
+|
 
+**Progress:** Work in progress, tested in full scale. `IO-Panel-Overlay` is pretty much complete,
+but missing holes to clip onto the `IO-Panel`. Edges are not rounded.
+
+| KS-330-Base-Plate |
+|-----------------|
+| <img src='./img/ks-330-base-plate.png' width="250px" alt="KS-330 IO Panel Overlay"/> |
+
+**Progress:** Completed and tested in 40% scale. Bottom is missing arrow marking to define front.
 
 ### Mini
 
@@ -70,7 +82,7 @@ in front is intended to fasten the front panel as well as future drive bay acces
 assemblies. There are screw holes in the back to fasten the `sleeve` and holes in bottom to fasten
 the `base plate`. The right and the left parts can optionally be glued together.
 
-**Progress:** Completed, but not fully tested.
+**Progress:** Completed, currently *untested*
 
 
 | KS-330-Mini-Sleeve |
@@ -80,11 +92,11 @@ the `base plate`. The right and the left parts can optionally be glued together.
 The outer `sleeve` is intended to go on top of the inner `frame` and align with the front panel, just as the
 original case.
 
-**Progress:** Completed, but not fully tested.
+**Progress:** Completed, currently *untested*. Edges are not rouned.
 
 | KS-330-IO-Panel |
 |-----------------|
-| <img src='./img/ks-330-io-panel-overlay-1.0-dev.png' width="250px" alt="KS-330 Mini Sleeve"/> |
+| <img src='./img/ks-330-io-panel-overlay-1.0-dev.png' width="250px" alt="KS-330 IO Panel"/> |
 
 Customized version of the IO Panel.
 
@@ -107,3 +119,16 @@ electronics. General model alignment (including rounded corners and model thickn
 The clone directory contains models based on measurements from a clone system. Quality is low
 compared to the original KS-330 cases and models have fitment issues also found persisted in the
 original clone parts.
+
+| Clone-Bay-Cover-3.5 | Clone-Bay-Cover-5.25 |
+|:---------------|:---------------:|
+| <img src='./img/clone-bay-cover-3.5.png' width="250px" alt="Clone Bay Cover 3.5&quot;"/> | No picture |
+**Progress:** Completed, tested in full scale. Fitment is not 100% but possible to adjust with
+precision knife without degrading quality. Works with KS-330 model.
+
+| Clone-Power-Button |
+|-----------------|
+| <img src='./img/clone-power-button.png' width="250px" alt="Clone Power Button"/> |
+
+**Progress:** Completed, tested in full scale. Works with `KS-330-Front-Panel` but is not an
+accurate representation of the original power button.
