@@ -61,7 +61,7 @@ but missing holes to clip onto the `IO-Panel`. Edges are not rounded.
 
 ### Mini
 
-This folder contains models speficially adjusted for a 1:2.5 (40%) size reduction which makes the
+<img src='./img/ks-330-mini-beta1.jpg' align="left" margin="10px" width="150px" alt="KS-330 IO Panel"/> This folder contains models speficially adjusted for a 1:2.5 (40%) size reduction which makes the
 case comparable in size to the commercially released Mini and Classic consoles. Currently there
 exists a case frame with support for Rasbperry Pi SoC motherboards. Other versions are planned in
 the future.
@@ -72,6 +72,8 @@ nuts and bolts.
 **Note!** Models not listed here are not yet converted to a `mini`-version. You may recreate them with decent
 success by scaling down the full size models to 40%. 
 
+<br clear="right"/>
+<br />
 
 | KS-330-Mini-Frame |
 |-----------------|
