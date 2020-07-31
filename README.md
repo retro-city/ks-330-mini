@@ -98,6 +98,7 @@ original case.
 |-----------------|
 | <img src='./img/ks-330-io-panel-overlay-1.0-dev.png' width="250px" alt="KS-330 IO Panel"/> |
 
+
 Customized version of the IO Panel.
 
 LED holes are completly open to account for non-transparent
@@ -113,6 +114,16 @@ the most promising option.
 
 **Progress:** The following remains: Button fitting and alignment. Creating a suitable BOM-list for
 electronics. General model alignment (including rounded corners and model thickness).
+
+| KS-330-IO-Panel-Circuit (Prototype) | |
+|-----------------|-|
+| <img src='./img/ks-330-mini-io-panel-circuit-front-dev.jpg' width="250px" alt="KS-330 IO Panel"/> | <img src='./img/ks-330-mini-io-panel-circuit-back-dev.jpg' width="250px" alt="KS-330 IO Panel"/> |
+
+Prototype board (~50x50mm) with HDD and Turbo LEDs as well as turbo and reset buttons wired to
+Mini-PV (Dupont)  connectors. JST-XH connectors are used for 5V power in/out. 7SEG is hardwired to
+88. All leds are paired with 330ohm resistors.
+
+**Progress:** Under development.
 
 ### Clone
 
