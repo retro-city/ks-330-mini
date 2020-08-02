@@ -61,19 +61,33 @@ but missing holes to clip onto the `IO-Panel`. Edges are not rounded.
 
 ### Mini
 
-<img src='./img/ks-330-mini-beta1.jpg' align="left" margin="10px" width="150px" alt="KS-330 IO Panel"/> This folder contains models speficially adjusted for a 1:2.5 (40%) size reduction which makes the
-case comparable in size to the commercially released Mini and Classic consoles. Currently there
+<img src='./img/ks-330-mini-beta1.jpg' align="left" margin="10px" width="150px" alt="KS-330 IO
+Panel"/> This folder contains models speficially  adjusted for a 1:2.5 (40%) size reduction which
+makes the case comparable in size to the commercially released Mini and Classic consoles. Currently there
 exists a case frame with support for Rasbperry Pi SoC motherboards. Other versions are planned in
 the future.
 
-The model uses M2.5 screws, only a few holes are actually threaded. Most of them are dependent on
-nuts and bolts.
+The model uses M2.5 screws in a mix of 6mm and 8mm lengths. Some holes are threaded, but should
+be secured with washers and nuts where possible.
 
-**Note!** Models not listed here are not yet converted to a `mini`-version. You may recreate them with decent
-success by scaling down the full size models to 40%. 
-
+**Note!** As of `beta3` we have an increased focus on keeping the parts bacwards compatible. It is
+now possible to recreate a complete case with great looks and authenticity. The IO panel is still
+work in progress. General fitment/assembly will be improved in future revisions.
 <br clear="right"/>
 <br />
+
+
+| KS-330-Mini-Front | KS-330-Mini-Drive-Bay-Plain |
+|--------------|---------------|
+| <img src='./img/mini/ks-330-mini-front.png' width="250px" alt="KS-330 Front" />  | <img src='./img/mini/ks-330-mini-drive-bay-plain.png' width="245px" alt="KS-330 Front" />  |
+
+Front panel with hole for push button ([Judco
+40-4526-00](https://www.digikey.no/product-detail/no/judco-manufacturing-inc/40-4526-00/545PB-ND/1277805))
+and
+
+**Progress:** Completed in beta3. Future revision will focus on better/more durable screw hole
+positioning. Possible adjustments to IO-Panel area. More drive bay inserts will be added in the future.
+
 
 | KS-330-Mini-Frame |
 |-----------------|
@@ -84,7 +98,8 @@ in front is intended to fasten the front panel as well as future drive bay acces
 assemblies. There are screw holes in the back to fasten the `sleeve` and holes in bottom to fasten
 the `base plate`. The right and the left parts can optionally be glued together.
 
-**Progress:** Completed, currently *untested*
+**Progress:** Completed in beta3. Future revisions will focus on case fitment and
+screw hole. Looking into using some kind of panel mount standard for IO holes.
 
 
 | KS-330-Mini-Sleeve |
@@ -94,7 +109,7 @@ the `base plate`. The right and the left parts can optionally be glued together.
 The outer `sleeve` is intended to go on top of the inner `frame` and align with the front panel, just as the
 original case.
 
-**Progress:** Completed, currently *untested*. Edges are not rouned.
+**Progress:** Completed in beta3. Edges on top has to be rounded in future revision.
 
 | KS-330-IO-Panel |
 |-----------------|
@@ -114,8 +129,7 @@ most two digits are sharing the 8 control pins pins (two identical numbers can e
 Controller boards based on the [HT16K33](https://www.adafruit.com/product/1427) currently looks like
 the most promising option.
 
-**Progress:** The following remains: Button fitting and alignment. Creating a suitable BOM-list for
-electronics. General model alignment (including rounded corners and model thickness).
+**Progress:**  Work in progress. Missing component fitting and alignment. Electronics still in PoC.
 
 | KS-330-IO-Panel-Circuit (Prototype) | |
 |-----------------|-|
