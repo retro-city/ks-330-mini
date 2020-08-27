@@ -13,12 +13,13 @@ injection molds might not be accurately reproduced.
 
 Please report any suggestions or issues using the GitHub issue tracker.
 
-## List of manufacturers
+## List of OEM manufacturers
 
 The following OEM manufacturers have been identified to use the KS-330 or equivalent clones or versions in their
 PC production in the early 1990s:
 
-* Executive (clone?) (Italy?)
+* Executive (unoriginal case) (Italy)
+* Cardinal Computer (Cookeville, TN, USA)
 * TCi Computer AS (Bergen, Norway)
 
 ## Licensing
