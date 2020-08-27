@@ -13,9 +13,9 @@ injection molds might not be accurately reproduced.
 
 Please report any suggestions or issues using the GitHub issue tracker.
 
-## List of OEM manufacturers
+## List of manufacturers
 
-The following OEM manufacturers have been identified to use the KS-330 or equivalent clones or versions in their
+The following manufacturers have been identified to use the KS-330 or equivalent clones or versions in their
 PC production in the early 1990s:
 
 * Executive (unoriginal case) (Italy)
