@@ -12,7 +12,7 @@ details. Areas which are not visible or clearly a result from practicality aroun
 injection molds might not be accurately reproduced.
 
 Please report any suggestions or issues using the GitHub issue tracker.
-Interested in purchasing ready-to-use products? Contact <a href="mailto:sales@retrocity.no">sales@retrocity.no</>.
+Interested in purchasing ready-to-use products? Contact <a href="mailto:sales@retrocity.no">sales@retrocity.no</a>.
 
 ## List of manufacturers
 
