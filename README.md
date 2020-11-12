@@ -32,7 +32,7 @@ href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 <br/><br/>
 <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img alt="GNU GPLv3 License" src="https://www.gnu.org/graphics/gplv3-127x51.png" width="88" /></a><br />
-All programs and scripts related to this project is licensed under the <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3</a> unless otherwise is specifically stated.
+All original programs and scripts related to this project are licensed under the <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3</a> unless otherwise is specifically stated. 3rd party software, utilities and libaries are subject to their respective licenses.
 
 ## Components
 
