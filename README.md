@@ -12,6 +12,7 @@ details. Areas which are not visible or clearly a result from practicality aroun
 injection molds might not be accurately reproduced.
 
 Please report any suggestions or issues using the GitHub issue tracker.
+Interested in purchasing ready-to-use products? Contact <a href="mailto:sales@retrocity.no">sales@retrocity.no</>.
 
 ## List of manufacturers
 
@@ -26,9 +27,12 @@ PC production in the early 1990s:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons
 License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"
-/></a><br /><br />3D Models, CAD files and renders are licensed under a <a rel="license"
+/></a><br /><br />3D Models, CAD files and renders are licensed under the <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<br/><br/>
+<a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img alt="GNU GPLv3 License" src="https://www.gnu.org/graphics/gplv3-127x51.png" width="88" /></a><br />
+All programs and scripts related to this project is licensed under the <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3</a> unless otherwise is specifically stated.
 
 ## Components
 
