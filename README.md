@@ -11,7 +11,7 @@ Models are reproduction based on measures from an original case. The focus is pr
 details. Areas which are not visible or clearly a result from practicality around the original
 injection molds might not be accurately reproduced.
 
-Please report any suggestions or issues using the GitHub issue tracker.
+Please report any suggestions or issues using the GitHub issue tracker.<br />
 Interested in purchasing ready-to-use products? Contact <a href="mailto:sales@retrocity.no">sales@retrocity.no</a>.
 
 ## List of manufacturers
