@@ -53,6 +53,7 @@ work in progress. General fitment/assembly will be improved in future revisions.
 <br clear="right"/>
 <br />
 
+#### Front Panel
 
 | Front | Drive-Bay-Plain | Power-Button
 |--------------|---------------|---------------|
@@ -65,10 +66,9 @@ and
 **Progress:** Completed in beta3. Future revision will focus on better/more durable screw hole
 positioning. Possible adjustments to IO-Panel area. More drive bay inserts will be added in the future.
 
+#### Frame
 
-| Frame |
-|-----------------|
-| <img src='./img/ks-330-mini-frame.png' width="250px" alt="KS-330 Mini Frame"/> |
+<img src='./img/ks-330-mini-frame.png' width="250px" alt="KS-330 Mini Frame"/>
 
 The inner `frame` of the case. Split into two different STLs to improve 3D printability. Screw holes
 in front is intended to fasten the front panel as well as future drive bay accessory and fan
@@ -78,15 +78,16 @@ the `base plate`. The right and the left parts can optionally be glued together.
 **Progress:** Completed in beta3. Future revisions will focus on case fitment and
 screw hole. Looking into using some kind of panel mount standard for IO holes.
 
+#### Outer Sleeve
 
-| Sleeve |
-|-----------------|
-| <img src='./img/ks-330-mini-sleeve.png' width="250px" alt="KS-330 Mini Sleeve"/> |
+<img src='./img/ks-330-mini-sleeve.png' width="250px" alt="KS-330 Mini Sleeve"/>
 
 The outer `sleeve` is intended to go on top of the inner `frame` and align with the front panel, just as the
 original case.
 
 **Progress:** Completed in beta3. Edges on top has to be rounded in future revision.
+
+#### IO Panel
 
 | IO-Panel | IO-Panel-Button
 |-----------------|-----------------|
@@ -106,6 +107,8 @@ MAX7219CWG+T due to a good combination of price, availability and ease of use. A
 is to just hard wire the LEDs. But then you're stuck with two identical numbers
 
 **Progress:** Completed in beta3.
+
+#### IO Panel PCB
 
 | IO-Panel-PCB | | IO-Panel-PCB (early prototype) | |
 |-----------------|-|-|-|
